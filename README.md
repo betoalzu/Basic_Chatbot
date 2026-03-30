@@ -46,20 +46,8 @@ hola → ⏳ escribiendo [- - -] ← Puntos suben/bajan
 🎨 style.css → Diseño + Animación WhatsApp
 ⚙️ script.js → Lógica (render, typing, respuestas)
 
-### **Flujo completo**
-```mermaid
-graph TD
-  A[Usuario escribe] --> B[Enter/Botón]
-  B --> C[Mensaje "Beto" aparece]
-  C --> D[Typing animado 1.5s]
-  D --> E[Respuesta inteligente]
-  E --> F[Scroll automático]
-  F --> G{>10 mensajes?}
-  G -->|Sí| H[Borra más antiguo]
-  G -->|No| I[Continúa]
-```
-
 ## 🎨 **Diseño responsivo**
+
 🌈 Fondo degradé azul-gris elegante
 💬 Burbujas estilo chat moderno
 👤 Nombres arriba de cada mensaje
@@ -98,7 +86,7 @@ new Audio('send.mp3').play();
 
 <div align="center">
 
-**👨‍💻 Desarrollado para Beto Alvarez**  
+**👨‍💻 Desarrollado para Alberto Alvarez Zubillaga**  
 **📅 Marzo 2026**  
 **✨ Listo para usar en producción!**
 
